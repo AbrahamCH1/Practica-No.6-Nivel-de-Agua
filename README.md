@@ -102,7 +102,7 @@ delay (2000);
 
 ```
 2. Hacer la conexion del sensor **ULTRASONICO** y los **LED´S** con la **ESP32** como se muestra en la siguente imagen.
-![](https://github.com/AbrahamCH1/Practica-No.5-DHT11-con-Ultrasonico/blob/main/Captura%20de%20pantalla%20(306).png?raw=true)
+![](https://github.com/AbrahamCH1/Practica-No.6-Nivel-de-Agua/blob/main/Captura%20de%20pantalla%20(310).png?raw=true)
 
 ### Instrucciones de operación
 1. Iniciar simulador.
@@ -111,9 +111,10 @@ delay (2000);
 5. Observar el comportamiento de los Led´s con respecto a las diferentes distancias. 
 ## Resultados
 Cuando haya funcionado, se podrán observar los valores dentro de la pantalla LCD.
-![](https://github.com/AbrahamCH1/Practica-No.5-DHT11-con-Ultrasonico/blob/main/Captura%20de%20pantalla%20(307).png?raw=true)
-![](https://github.com/AbrahamCH1/Practica-No.5-DHT11-con-Ultrasonico/blob/main/Captura%20de%20pantalla%20(308).png?raw=true)
-![](https://github.com/AbrahamCH1/Practica-No.5-DHT11-con-Ultrasonico/blob/main/Captura%20de%20pantalla%20(309).png?raw=true)
+![](https://github.com/AbrahamCH1/Practica-No.6-Nivel-de-Agua/blob/main/Captura%20de%20pantalla%20(311).png?raw=true)
+![](https://github.com/AbrahamCH1/Practica-No.6-Nivel-de-Agua/blob/main/Captura%20de%20pantalla%20(312).png?raw=true)
+![](https://github.com/AbrahamCH1/Practica-No.6-Nivel-de-Agua/blob/main/Captura%20de%20pantalla%20(313).png?raw=true)
+![](https://github.com/AbrahamCH1/Practica-No.6-Nivel-de-Agua/blob/main/Captura%20de%20pantalla%20(314).png?raw=true)
 
 # Créditos
 Desarrollado por Ing. Abraham Contreras Herrera
