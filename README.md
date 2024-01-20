@@ -9,6 +9,7 @@ Para realizar esta práctica necesitas lo siguiente
 - [WOKWI](https://wokwi.com/projects/new/esp32)
 - Tarjeta ESP32
 - Sensor ULTRASONICO
+- 4 LED´s
 ## Instrucciones
 ### Requisitos previos
 Para poder hacer uso de este repositorio se requiere entrar a la plataforma de [WOKWI](https://wokwi.com/projects/new/esp32).
